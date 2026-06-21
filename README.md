@@ -1,5 +1,5 @@
 # CodeAlpha_Task1
-# 🧮 Calculator Web Application
+# 🧮** Calculator Web Application**
 
 ## 📖 Project Overview
 
