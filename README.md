@@ -16,7 +16,9 @@ This Calculator Web Application was developed as part of the CodeAlpha Frontend 
 ## 💼 Internship Details
 
 **Organization:** CodeAlpha
+
 **Domain:** Frontend Development
+
 **Task:** Calculator Web Application
 
 ## 🌐 HTML
